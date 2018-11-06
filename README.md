@@ -1,6 +1,8 @@
 # Aye-Alfred
 AI powered assistant that makes scheduling meetings easier
 
+![alt tag](https://raw.githubusercontent.com/ankitp123/Aye-Alfred/master/architecture.png)
+
 Aye ‘Alfred can be fully integrated into your corporate calendar
 tool of choice.
 
